@@ -75,7 +75,7 @@ p {
   display: inline-block;
   margin-left: 20px;
 }
-/* created benefits and benefits-sections class in index to condense css*/
+
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -102,7 +102,7 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
-/*created topics class to condense code*/
+
 .topics {
   margin-bottom: 20px;
   padding: 50px;
