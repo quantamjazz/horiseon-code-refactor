@@ -1,19 +1,15 @@
-# horiseon-code-refactor
+## Horiseon Website - Code Refactor Challenge
 
-## Installation
+# Description
+"Horiseon" is a digital marketing website specializing in SEO, Online Reputation Management, and Social Media Marketing. The website is designed to appear as a company offering a comprehensive resource for businesses looking to improve their online presence. My challenge was to refactor the code to make it more efficient.
 
-N/A
+# Features
+Working NavBar to scroll to relevant sections of the page
+Large Hero Image Section
+![image](https://github.com/quantamjazz/horiseon-code-refactor/assets/148623614/fdc6a675-23e2-48f2-b4af-81ab916815f9)
 
-## Usage
+# Installation
+Access the website directly online without any installation process.
 
-Homepage for marketing company website specialising in SEO.
-
-## Credits
-
-N/A
-
-## License
-
-Please see repo for license.
-
----
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
