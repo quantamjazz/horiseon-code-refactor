@@ -6,7 +6,9 @@
 # Features
 Working NavBar to scroll to relevant sections of the page
 Large Hero Image Section
-![image](https://github.com/quantamjazz/horiseon-code-refactor/assets/148623614/fdc6a675-23e2-48f2-b4af-81ab916815f9)
+![image](https://github.com/quantamjazz/horiseon-code-refactor/assets/148623614/ee16734a-911f-4b64-8012-66524d842cdd)
+
+
 
 # Installation
 Access the website directly online without any installation process.
